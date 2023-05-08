@@ -4,12 +4,11 @@
 
 ![image](https://user-images.githubusercontent.com/28717686/236794933-9dc446af-02b1-46b6-b790-373a80dbe244.png)
 
-
 ## Stories
 
-* [2022](./thatbeautifuldream-2022.stl)
-* [2021](./thatbeautifuldream-2021.stl)
-* [2020](./thatbeautifuldream-2020.stl)
+- [2022](./thatbeautifuldream-2022.stl)
+- [2021](./thatbeautifuldream-2021.stl)
+- [2020](./thatbeautifuldream-2020.stl)
 
 ## Embedding
 
