@@ -28,7 +28,7 @@ By default, the embedded renderer is 420 pixels wide by 620 pixels high, but you
 <script src="https://embed.githubusercontent.com/view/3d/thatbeautifuldream/skyline/master/thatbeautifuldream-2022.stl?height=300&width=500"></script>
 ```
 
-> Note: `ref` can be a branch or the hash to an individual commit hash.
+> Note: `ref` can be a branch or the hash to an individual commit.
 
 ## License
 
